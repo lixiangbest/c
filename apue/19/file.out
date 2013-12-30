@@ -1,0 +1,11 @@
+  PID  PPID  PGID   SID COMMAND         STAT COMMAND  TT
+ 8343  8342  8343  8343 bash            Ss+  bash     pts/0
+10432  8343 10432  8343 pty             S    pty      pts/0
+10434 10432 10432  8343 sh              S    sh       pts/0
+10436 10434 10432  8343 ps              R    ps       pts/0
+ifdef LINUX = 1, interactive = 0
+optind = 2, optarg = (null)
+  PID  PPID  PGID   SID COMMAND         STAT COMMAND  TT
+10433 10432 10433 10433 pty             Ss+  pty      pts/3
+10435 10433 10433 10433 sh              S+   sh       pts/3
+10437 10435 10433 10433 ps              R+   ps       pts/3

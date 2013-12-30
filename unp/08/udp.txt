@@ -1,0 +1,217 @@
+18:13:49.043895 IP (tos 0x0, ttl 64, id 13019, offset 0, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local.56885 > ubuntu.local.9877: UDP, length 65507
+18:13:49.044033 IP (tos 0x0, ttl 64, id 13019, offset 1480, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.044316 IP (tos 0x0, ttl 64, id 13019, offset 2960, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.044573 IP (tos 0x0, ttl 64, id 13019, offset 4440, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.044881 IP (tos 0x0, ttl 64, id 13019, offset 5920, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.045132 IP (tos 0x0, ttl 64, id 13019, offset 7400, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.045387 IP (tos 0x0, ttl 64, id 13019, offset 8880, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.045660 IP (tos 0x0, ttl 64, id 13019, offset 10360, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.046060 IP (tos 0x0, ttl 64, id 13019, offset 11840, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.046377 IP (tos 0x0, ttl 64, id 13019, offset 13320, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.046669 IP (tos 0x0, ttl 64, id 13019, offset 14800, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047034 IP (tos 0x0, ttl 64, id 13019, offset 16280, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047150 IP (tos 0x0, ttl 64, id 13019, offset 17760, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047254 IP (tos 0x0, ttl 64, id 13019, offset 19240, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047369 IP (tos 0x0, ttl 64, id 13019, offset 20720, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047475 IP (tos 0x0, ttl 64, id 13019, offset 22200, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047582 IP (tos 0x0, ttl 64, id 13019, offset 23680, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047687 IP (tos 0x0, ttl 64, id 13019, offset 25160, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.047795 IP (tos 0x0, ttl 64, id 13019, offset 26640, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.048034 IP (tos 0x0, ttl 64, id 13019, offset 28120, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.048146 IP (tos 0x0, ttl 64, id 13019, offset 29600, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.048259 IP (tos 0x0, ttl 64, id 13019, offset 31080, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.048368 IP (tos 0x0, ttl 64, id 13019, offset 32560, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.048472 IP (tos 0x0, ttl 64, id 13019, offset 34040, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.048525 IP (tos 0x0, ttl 64, id 4166, offset 0, flags [DF], proto UDP (17), length 74)
+    ubuntu.local.54605 > 192.168.246.2.domain: 11995+ PTR? 174.246.168.192.in-addr.arpa. (46)
+18:13:49.049228 IP (tos 0x0, ttl 64, id 13019, offset 35520, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.049237 IP (tos 0x0, ttl 64, id 13019, offset 37000, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.049239 IP (tos 0x0, ttl 64, id 13019, offset 38480, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.049365 IP (tos 0x0, ttl 64, id 13019, offset 39960, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.049437 IP (tos 0x0, ttl 64, id 13019, offset 41440, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.049585 IP (tos 0x0, ttl 64, id 13019, offset 42920, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.049659 IP (tos 0x0, ttl 64, id 13019, offset 44400, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.049951 IP (tos 0x0, ttl 64, id 13019, offset 45880, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.050365 IP (tos 0x0, ttl 64, id 13019, offset 47360, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.050629 IP (tos 0x0, ttl 64, id 13019, offset 48840, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.050705 IP (tos 0x0, ttl 64, id 13019, offset 50320, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.050861 IP (tos 0x0, ttl 64, id 13019, offset 51800, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.050958 IP (tos 0x0, ttl 64, id 13019, offset 53280, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051107 IP (tos 0x0, ttl 64, id 13019, offset 54760, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051181 IP (tos 0x0, ttl 64, id 13019, offset 56240, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051321 IP (tos 0x0, ttl 64, id 13019, offset 57720, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051395 IP (tos 0x0, ttl 64, id 13019, offset 59200, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051541 IP (tos 0x0, ttl 64, id 13019, offset 60680, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051614 IP (tos 0x0, ttl 64, id 13019, offset 62160, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051758 IP (tos 0x0, ttl 64, id 13019, offset 63640, flags [+], proto UDP (17), length 1500)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.051839 IP (tos 0x0, ttl 64, id 13019, offset 65120, flags [none], proto UDP (17), length 415)
+    ubuntu-2.local > ubuntu.local: udp
+18:13:49.052035 IP (tos 0x0, ttl 64, id 2882, offset 0, flags [+], proto UDP (17), length 1500)
+    ubuntu.local.9877 > ubuntu-2.local.56885: UDP, length 65507
+18:13:49.052083 IP (tos 0x0, ttl 64, id 2882, offset 1480, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052113 IP (tos 0x0, ttl 64, id 2882, offset 2960, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052142 IP (tos 0x0, ttl 64, id 2882, offset 4440, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052170 IP (tos 0x0, ttl 64, id 2882, offset 5920, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052198 IP (tos 0x0, ttl 64, id 2882, offset 7400, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052226 IP (tos 0x0, ttl 64, id 2882, offset 8880, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052254 IP (tos 0x0, ttl 64, id 2882, offset 10360, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052282 IP (tos 0x0, ttl 64, id 2882, offset 11840, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052310 IP (tos 0x0, ttl 64, id 2882, offset 13320, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052338 IP (tos 0x0, ttl 64, id 2882, offset 14800, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052366 IP (tos 0x0, ttl 64, id 2882, offset 16280, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052394 IP (tos 0x0, ttl 64, id 2882, offset 17760, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052422 IP (tos 0x0, ttl 64, id 2882, offset 19240, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052450 IP (tos 0x0, ttl 64, id 2882, offset 20720, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052478 IP (tos 0x0, ttl 64, id 2882, offset 22200, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052505 IP (tos 0x0, ttl 64, id 2882, offset 23680, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052533 IP (tos 0x0, ttl 64, id 2882, offset 25160, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052562 IP (tos 0x0, ttl 64, id 2882, offset 26640, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052589 IP (tos 0x0, ttl 64, id 2882, offset 28120, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052617 IP (tos 0x0, ttl 64, id 2882, offset 29600, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052645 IP (tos 0x0, ttl 64, id 2882, offset 31080, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052672 IP (tos 0x0, ttl 64, id 2882, offset 32560, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052700 IP (tos 0x0, ttl 64, id 2882, offset 34040, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052728 IP (tos 0x0, ttl 64, id 2882, offset 35520, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052756 IP (tos 0x0, ttl 64, id 2882, offset 37000, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052784 IP (tos 0x0, ttl 64, id 2882, offset 38480, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052835 IP (tos 0x0, ttl 64, id 2882, offset 39960, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052864 IP (tos 0x0, ttl 64, id 2882, offset 41440, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052892 IP (tos 0x0, ttl 64, id 2882, offset 42920, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052920 IP (tos 0x0, ttl 64, id 2882, offset 44400, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052948 IP (tos 0x0, ttl 64, id 2882, offset 45880, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.052976 IP (tos 0x0, ttl 64, id 2882, offset 47360, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053003 IP (tos 0x0, ttl 64, id 2882, offset 48840, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053031 IP (tos 0x0, ttl 64, id 2882, offset 50320, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053059 IP (tos 0x0, ttl 64, id 2882, offset 51800, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053087 IP (tos 0x0, ttl 64, id 2882, offset 53280, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053115 IP (tos 0x0, ttl 64, id 2882, offset 54760, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053142 IP (tos 0x0, ttl 64, id 2882, offset 56240, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053170 IP (tos 0x0, ttl 64, id 2882, offset 57720, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053198 IP (tos 0x0, ttl 64, id 2882, offset 59200, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053225 IP (tos 0x0, ttl 64, id 2882, offset 60680, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053253 IP (tos 0x0, ttl 64, id 2882, offset 62160, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053280 IP (tos 0x0, ttl 64, id 2882, offset 63640, flags [+], proto UDP (17), length 1500)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:49.053308 IP (tos 0x0, ttl 64, id 2882, offset 65120, flags [none], proto UDP (17), length 415)
+    ubuntu.local > ubuntu-2.local: udp
+18:13:51.100490 IP (tos 0x0, ttl 128, id 20690, offset 0, flags [none], proto UDP (17), length 74)
+    192.168.246.2.domain > ubuntu.local.54605: 11995 NXDomain 0/0/0 (46)
+18:13:51.203020 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 74)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 174.246.168.192.in-addr.arpa. (46)
+18:13:51.203267 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 94)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0*- [0q] 1/0/0 174.246.168.192.in-addr.arpa. (66)
+18:13:51.203828 IP (tos 0x0, ttl 64, id 4705, offset 0, flags [DF], proto UDP (17), length 74)
+    ubuntu.local.42260 > 192.168.246.2.domain: 11084+ PTR? 173.246.168.192.in-addr.arpa. (46)
+18:13:53.258101 IP (tos 0x0, ttl 128, id 20691, offset 0, flags [none], proto UDP (17), length 74)
+    192.168.246.2.domain > ubuntu.local.42260: 11084 NXDomain 0/0/0 (46)
+18:13:53.360210 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 74)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 173.246.168.192.in-addr.arpa. (46)
+18:13:53.364374 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 96)
+    ubuntu-2.local.mdns > 224.0.0.251.mdns: 0*- [0q] 1/0/0 173.246.168.192.in-addr.arpa. (68)
+18:13:53.369618 IP (tos 0x0, ttl 64, id 5246, offset 0, flags [DF], proto UDP (17), length 72)
+    ubuntu.local.58868 > 192.168.246.2.domain: 58228+ PTR? 2.246.168.192.in-addr.arpa. (44)
+18:13:55.421638 IP (tos 0x0, ttl 128, id 20692, offset 0, flags [none], proto UDP (17), length 72)
+    192.168.246.2.domain > ubuntu.local.58868: 58228 NXDomain 0/0/0 (44)
+18:13:55.523273 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 72)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 2.246.168.192.in-addr.arpa. (44)
+18:13:56.525374 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 72)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 2.246.168.192.in-addr.arpa. (44)
+18:13:58.528326 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 72)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 2.246.168.192.in-addr.arpa. (44)
+18:14:00.438258 IP (tos 0x0, ttl 64, id 7014, offset 0, flags [DF], proto UDP (17), length 70)
+    ubuntu.local.33002 > 192.168.246.2.domain: 22296+ PTR? 251.0.0.224.in-addr.arpa. (42)
+18:14:02.505138 IP (tos 0x0, ttl 128, id 20693, offset 0, flags [none], proto UDP (17), length 127)
+    192.168.246.2.domain > ubuntu.local.33002: 22296 NXDomain 0/1/0 (99)
+18:14:02.606426 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 70)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 251.0.0.224.in-addr.arpa. (42)
+18:14:03.608488 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 70)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 251.0.0.224.in-addr.arpa. (42)
+18:14:05.610756 IP (tos 0x0, ttl 255, id 0, offset 0, flags [DF], proto UDP (17), length 70)
+    ubuntu.local.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 251.0.0.224.in-addr.arpa. (42)
+

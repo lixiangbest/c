@@ -1,0 +1,25 @@
+# Common make definitions,customized for each platform
+# Definitions required in all program directories to compile and link
+# C programs using gcc
+
+# Working directory
+WKDIR=/home/suncco/c/apue
+# C compiler
+CC=gcc
+# Compile parameter
+COMPILE.c=$(CC) $(CFLAGS) $(CPPFLAGS) -c
+# Link parameter
+LINK.c=$(CC) $(CFLAGS) $(CPPFLAGS) $(LDDIR) $(LDFLAGS)
+# Extra function library path.
+LDDIR=-L../lib
+# Archive library.
+LDLIBS=../lib/libapue.a $(EXTRALIBS)
+# C compiling parameter.
+CFLAGS=-DLINUX -ansi -I$(WKDIR)/include -Wall -D_GNU_SOURCE $(EXTRA)
+
+# Our library that almost every program needs.
+LIB=../libapue.a
+
+# Common temp files to delete from each directory.
+TEMPFILES=core core.* *.o temp.* *.out typescript*
+

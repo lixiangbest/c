@@ -1,0 +1,7 @@
+a write to stdout
+strlen=18,sizeof=19
+before fork
+pid = 23541, glob = 7, var = 89
+strlen=18,sizeof=19
+before fork
+pid = 23540, glob = 6, var = 88

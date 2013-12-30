@@ -1,0 +1,4 @@
+one line to standard error
+stdin lstat error!: No such file or directory
+stdout lstat error!: No such file or directory
+stderr lstat error!: No such file or directory

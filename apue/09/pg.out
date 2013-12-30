@@ -1,0 +1,4 @@
+process id=3849,process group id=3849,pgid=3849
+parent = 3849,child process id=3850,process group id=3849
+parent = 3849,child process id=3850,process group id=3850
+process id=3849,process group id=3849,pgid=3849

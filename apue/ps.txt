@@ -1,0 +1,195 @@
+ PPID   PID  PGID   SID TTY      TPGID STAT   UID   TIME COMMAND
+    0     1     1     1 ?           -1 Ss       0   1:25 /sbin/init
+    0     2     0     0 ?           -1 S        0   0:00 [kthreadd]
+    2     3     0     0 ?           -1 S        0   0:00 [migration/0]
+    2     4     0     0 ?           -1 S        0   0:17 [ksoftirqd/0]
+    2     5     0     0 ?           -1 S        0   0:03 [watchdog/0]
+    2     6     0     0 ?           -1 S        0   4:02 [events/0]
+    2     7     0     0 ?           -1 S        0   0:00 [cpuset]
+    2     8     0     0 ?           -1 S        0   0:00 [khelper]
+    2     9     0     0 ?           -1 S        0   0:00 [netns]
+    2    10     0     0 ?           -1 S        0   0:00 [async/mgr]
+    2    11     0     0 ?           -1 S        0   0:00 [pm]
+    2    12     0     0 ?           -1 S        0   0:02 [sync_supers]
+    2    13     0     0 ?           -1 S        0   0:06 [bdi-default]
+    2    14     0     0 ?           -1 S        0   0:00 [kintegrityd/0]
+    2    15     0     0 ?           -1 S        0   0:43 [kblockd/0]
+    2    16     0     0 ?           -1 S        0   0:00 [kacpid]
+    2    17     0     0 ?           -1 S        0   0:00 [kacpi_notify]
+    2    18     0     0 ?           -1 S        0   0:00 [kacpi_hotplug]
+    2    19     0     0 ?           -1 S        0  23:40 [ata/0]
+    2    20     0     0 ?           -1 S        0   0:00 [ata_aux]
+    2    21     0     0 ?           -1 S        0   0:03 [ksuspend_usbd]
+    2    22     0     0 ?           -1 S        0   1:26 [khubd]
+    2    23     0     0 ?           -1 S        0   0:04 [kseriod]
+    2    24     0     0 ?           -1 S        0   0:00 [kmmcd]
+    2    27     0     0 ?           -1 S        0   0:06 [khungtaskd]
+    2    28     0     0 ?           -1 S        0   4:28 [kswapd0]
+    2    29     0     0 ?           -1 SN       0   0:00 [ksmd]
+    2    30     0     0 ?           -1 S        0   0:00 [aio/0]
+    2    31     0     0 ?           -1 S        0   0:00 [ecryptfs-kthrea]
+    2    32     0     0 ?           -1 S        0   0:00 [crypto/0]
+    2    35     0     0 ?           -1 S        0   0:00 [pciehpd]
+    2    37     0     0 ?           -1 S        0   0:00 [scsi_eh_0]
+    2    38     0     0 ?           -1 S        0   0:43 [scsi_eh_1]
+    2    41     0     0 ?           -1 S        0   0:00 [kstriped]
+    2    42     0     0 ?           -1 S        0   0:00 [kmpathd/0]
+    2    43     0     0 ?           -1 S        0   0:00 [kmpath_handlerd]
+    2    44     0     0 ?           -1 S        0   0:00 [ksnapd]
+    2    45     0     0 ?           -1 S        0   0:00 [kondemand/0]
+    2    46     0     0 ?           -1 S        0   0:00 [kconservative/0]
+    2   217     0     0 ?           -1 S        0   0:00 [usbhid_resumer]
+    2   225     0     0 ?           -1 S        0   1:37 [mpt_poll_0]
+    2   226     0     0 ?           -1 S        0   0:00 [mpt/0]
+    2   241     0     0 ?           -1 S        0   0:00 [scsi_eh_2]
+    2   261     0     0 ?           -1 S        0  62:37 [jbd2/sda1-8]
+    2   262     0     0 ?           -1 S        0   0:00 [ext4-dio-unwrit]
+    2   295     0     0 ?           -1 S        0   4:04 [flush-8:0]
+    1   322   321   321 ?           -1 S        0   0:05 upstart-udev-bridge --daemon
+    1   327   327   327 ?           -1 S<s      0   0:07 udevd --daemon
+    2   543     0     0 ?           -1 S        0   0:03 [kpsmoused]
+    2   574     0     0 ?           -1 S        0   0:00 [bluetooth]
+    2   634     0     0 ?           -1 S        0   0:00 [kgameportd]
+    1   680   680   680 ?           -1 Ss       0   0:03 /usr/sbin/sshd -D
+    1   681   670   670 ?           -1 Sl     101   1:30 rsyslogd -c4
+    1   690   690   690 ?           -1 Ss     102   2:29 dbus-daemon --system --fork
+    1   725   723   723 ?           -1 S      104   4:37 avahi-daemon: running [ubuntu.local]
+  725   729   729   729 ?           -1 Ss     104   0:00 avahi-daemon: chroot helper
+    1   730   730   730 ?           -1 Ssl      0   3:39 NetworkManager
+    1   733   690   690 ?           -1 S        0   0:04 /usr/sbin/modem-manager
+    1   802   802   802 tty4       802 Ss+      0   0:00 /sbin/getty -8 38400 tty4
+    1   805   805   805 tty5       805 Ss+      0   0:00 /sbin/getty -8 38400 tty5
+    1   819   819   819 tty2       819 Ss+      0   0:00 /sbin/getty -8 38400 tty2
+    1   821   821   821 tty3       821 Ss+      0   0:00 /sbin/getty -8 38400 tty3
+    1   825   825   825 tty6       825 Ss+      0   0:00 /sbin/getty -8 38400 tty6
+    1   829   829   829 ?           -1 Ss       0   0:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+    1   831   831   831 ?           -1 Ss       0   0:45 cron
+    1   832   832   832 ?           -1 Ss       1   0:03 atd
+    1   847   801   801 ?           -1 Sl   65534   3:57 /usr/bin/memcached -m 64 -p 11211 -u nobody -l 127.0.0.1
+    1   941   690   690 ?           -1 S        0   0:00 /sbin/wpa_supplicant -u -s
+    1  1028  1028  1028 ?           -1 Ss       0   1:36 /usr/lib/postfix/master
+    1  1081  1081  1081 ?           -1 Ss       0   0:08 /usr/sbin/cupsd -C /etc/cups/cupsd.conf
+    2  1100     0     0 ?           -1 S<       0   0:00 [krfcommd]
+    1  1549  1549  1549 tty1      1549 Ss+      0   0:00 /sbin/getty -8 38400 tty1
+    1  1743  1743  1743 ?           -1 Ssl      0   3:16 gdm-binary
+    1  1748   690   690 ?           -1 Sl       0   0:28 /usr/sbin/console-kit-daemon --no-daemon
+ 1743  1813  1743  1743 ?           -1 Sl       0   0:00 /usr/lib/gdm/gdm-simple-slave --display-id /org/gnome/DisplayManager/Display1
+ 1813  1833  1833  1833 tty7      1833 Ss+      0 398:37 /usr/bin/X :0 -nr -verbose -auth /var/run/gdm/auth-for-gdm-MAdJIy/database -nolisten tcp vt7
+    1  2036  2033  2033 ?           -1 S      114   0:00 /usr/bin/dbus-launch --exit-with-session
+ 1813  2055  1743  1743 ?           -1 Sl       0   0:00 /usr/lib/gdm/gdm-session-worker
+    1  2057   690   690 ?           -1 S        0   0:09 /usr/lib/upower/upowerd
+    1  2063   690   690 ?           -1 S        0   0:13 /usr/lib/policykit-1/polkitd
+    1  2071   690   690 ?           -1 SNl    111   5:56 /usr/lib/rtkit/rtkit-daemon
+    1  2102  2102  2102 ?           -1 Ssl    108   1:16 /usr/sbin/hald
+ 2102  2103  2102  2102 ?           -1 S        0   0:07 hald-runner
+ 2103  2130  2102  2102 ?           -1 S        0   0:10 hald-addon-input: Listening on /dev/input/event2 /dev/input/event0 /dev/input/event6
+ 2103  2141  2102  2102 ?           -1 S        0   1:26 hald-addon-storage: no polling on /dev/fd0 because it is explicitly disabled
+ 2103  2142  2102  2102 ?           -1 S        0  28:37 hald-addon-storage: polling /dev/sr0 (every 2 sec)
+ 2103  2147  2102  2102 ?           -1 S      108   0:00 hald-addon-acpi: listening on acpid socket /var/run/acpid.socket
+    1  2305  1743  1743 ?           -1 Sl       0   0:03 /usr/bin/gnome-keyring-daemon --daemonize --login
+ 2055  2323  2323  2323 ?           -1 Ssl      0   0:15 gnome-session
+ 2323  2358  2358  2358 ?           -1 Ss       0   0:26 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session gnome-session
+    1  2361  2323  2323 ?           -1 S        0   0:00 /usr/bin/dbus-launch --exit-with-session gnome-session
+    1  2362  2362  2362 ?           -1 Ss       0   0:27 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+    1  2365  2362  2362 ?           -1 S        0   1:12 /usr/lib/libgconf2-4/gconfd-2
+    1  2371  2371  2371 ?           -1 Ss       0   8:21 /usr/lib/gnome-settings-daemon/gnome-settings-daemon
+    1  2374  2362  2362 ?           -1 S        0   0:03 /usr/lib/gvfs/gvfsd
+    1  2378  2378  2378 ?           -1 Ssl      0   0:03 /usr/lib/gvfs//gvfs-fuse-daemon /root/.gvfs
+    1  2386  2323  2323 ?           -1 S        0 104:09 /usr/lib/vmware-tools/sbin32/vmtoolsd -n vmusr
+ 2323  2387  2323  2323 ?           -1 S        0   0:42 gnome-power-manager
+ 2323  2388  2323  2323 ?           -1 S        0   0:07 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+ 2323  2391  2323  2323 ?           -1 S        0   5:57 gnome-panel
+ 2323  2392  2323  2323 ?           -1 S        0   0:16 bluetooth-applet
+ 2323  2393  2323  2323 ?           -1 R        0   8:46 nautilus
+ 2323  2394  2323  2323 ?           -1 Sl       0   2:21 metacity --replace
+ 2323  2399  2323  2323 ?           -1 S        0   5:10 nm-applet --sm-disable
+    1  2423  2362  2362 ?           -1 S        0   3:52 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+    1  2439  2439  2439 ?           -1 Ss       0   2:26 gnome-screensaver
+    1  2440  2440  2440 ?           -1 Ssl      0   0:00 /usr/lib/bonobo-activation/bonobo-activation-server --ac-activate --ior-output-fd=19
+    1  2442  2362  2362 ?           -1 S        0   3:59 /usr/lib/gvfs/gvfs-gdu-volume-monitor
+    1  2447   690   690 ?           -1 Sl       0   0:08 /usr/lib/udisks/udisks-daemon
+ 2447  2452   690   690 ?           -1 S        0   8:13 udisks-daemon: polling /dev/sr0
+    1  2454  2362  2362 ?           -1 S        0   0:05 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+    1  2458  2440  2440 ?           -1 S        0   3:21 /usr/lib/gnome-panel/wnck-applet --oaf-activate-iid=OAFIID:GNOME_Wncklet_Factory --oaf-ior-fd=18
+    1  2462  2440  2440 ?           -1 S        0   0:21 /usr/lib/gnome-applets/trashapplet --oaf-activate-iid=OAFIID:GNOME_Panel_TrashApplet_Factory --oaf-ior-fd=24
+    1  2465  2362  2362 ?           -1 Sl       0   5:04 /usr/lib/gvfs/gvfs-afc-volume-monitor
+    1  2476  2362  2362 ?           -1 S        0   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+ 2323  2481  2323  2323 ?           -1 S        0   0:07 /usr/lib/gnome-disk-utility/gdu-notification-daemon
+    1  2487  2440  2440 ?           -1 S        0 157:08 /usr/lib/gnome-panel/clock-applet --oaf-activate-iid=OAFIID:GNOME_ClockApplet_Factory --oaf-ior-fd=19
+    1  2489  2440  2440 ?           -1 S        0   0:16 /usr/lib/gnome-panel/notification-area-applet --oaf-activate-iid=OAFIID:GNOME_NotificationAreaApplet_Factory --oaf-ior-fd=28
+    1  2492  2440  2440 ?           -1 S        0   3:16 /usr/lib/indicator-applet/indicator-applet-session --oaf-activate-iid=OAFIID:GNOME_FastUserSwitchApplet_Factory --oaf-ior-fd=25
+    1  2493  2440  2440 ?           -1 S        0   0:44 /usr/lib/indicator-applet/indicator-applet --oaf-activate-iid=OAFIID:GNOME_IndicatorApplet_Factory --oaf-ior-fd=37
+    1  2508  2362  2362 ?           -1 S        0   0:03 /usr/lib/gvfs/gvfsd-metadata
+    1  2512  2362  2362 ?           -1 S        0   2:33 /usr/lib/indicator-session/indicator-session-service
+    1  2520  2362  2362 ?           -1 S        0   0:01 /usr/lib/indicator-sound/indicator-sound-service
+    1  2521  2362  2362 ?           -1 S        0   1:12 /usr/lib/indicator-me/indicator-me-service
+    1  2523  2362  2362 ?           -1 S        0   0:02 /usr/lib/indicator-messages/indicator-messages-service
+    1  2525  2362  2362 ?           -1 S        0   0:10 /usr/lib/indicator-application/indicator-application-service
+ 2323  2538  2323  2323 ?           -1 S        0   0:32 python /usr/share/system-config-printer/applet.py
+ 2323  2540  2323  2323 ?           -1 Sl       0   0:20 /usr/lib/evolution/2.28/evolution-alarm-notify
+    1  2606  2323  2323 ?           -1 Sl       0   6:42 gnome-terminal
+ 2606  2607  2323  2323 ?           -1 S        0   0:00 gnome-pty-helper
+ 2606  2608  2608  2608 pts/0     2608 Ss+      0   0:05 bash
+    1  2742  2362  2362 ?           -1 S        0   8:51 /usr/lib/notify-osd/notify-osd
+    1  2980  2980  2980 ?           -1 Ss   65534   0:00 /usr/bin/php-cgi
+ 2980  2982  2980  2980 ?           -1 S    65534   0:01 /usr/bin/php-cgi
+ 2980  2983  2980  2980 ?           -1 S    65534   0:00 /usr/bin/php-cgi
+ 2980  2984  2980  2980 ?           -1 S    65534   0:00 /usr/bin/php-cgi
+ 2980  2985  2980  2980 ?           -1 S    65534   0:04 /usr/bin/php-cgi
+ 2980  2986  2980  2980 ?           -1 S    65534   0:02 /usr/bin/php-cgi
+ 2980  2987  2980  2980 ?           -1 S    65534   0:00 /usr/bin/php-cgi
+ 2980  2988  2980  2980 ?           -1 S    65534   0:00 /usr/bin/php-cgi
+ 2980  2989  2980  2980 ?           -1 S    65534   0:00 /usr/bin/php-cgi
+ 2980  2990  2980  2980 ?           -1 S    65534   0:03 /usr/bin/php-cgi
+ 2980  2991  2980  2980 ?           -1 S    65534   0:00 /usr/bin/php-cgi
+  730  3357  3357   730 ?           -1 S        0   0:00 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /var/run/dhclient-eth0.pid -lf /var/lib/dhcp3/dhclient-14e05a14-0c4e-40bf-b6a2-a9d53ff2ca3d-eth0.lease -cf /var/run/nm-dhclient-eth0.conf eth0
+ 1028  3413  1028  1028 ?           -1 S      117   0:00 qmgr -l -t fifo -u
+  680  3534  3534  3534 ?           -1 Ss       0   0:00 sshd: suncco [priv] 
+  680  3536  3536  3536 ?           -1 Ss       0   0:00 sshd: suncco [priv] 
+  680  3538  3538  3538 ?           -1 Ss       0   0:00 sshd: suncco [priv] 
+ 3534  3667  3534  3534 ?           -1 S     1000   0:00 sshd: suncco@pts/5  
+ 3667  3668  3668  3668 pts/5     4095 Ss    1000   0:00 -bash
+ 3536  3815  3536  3536 ?           -1 S     1000   0:00 sshd: suncco@pts/7  
+ 3815  3816  3816  3816 pts/7     3816 Ss+   1000   0:00 -bash
+ 3538  3962  3538  3538 ?           -1 S     1000   0:00 sshd: suncco@pts/8  
+ 3962  3963  3963  3963 pts/8     3963 Ss+   1000   0:00 -bash
+ 1028  4003  1028  1028 ?           -1 S      117   0:00 pickup -l -t fifo -u -c
+ 3668  4095  4095  3668 pts/5     4095 R+    1000   0:00 ps axj
+ 2606  6587  6587  6587 pts/6     6587 Ss+      0   0:03 bash
+ 2606  6712  6712  6712 pts/4     6712 Ss+      0   0:05 bash
+    1  7003  2362  2362 ?           -1 S        0   2:42 /usr/bin/python /usr/bin/gwibber-service
+    1  7023  2362  2362 ?           -1 S        0  97:24 /usr/bin/python /usr/lib/desktopcouch/desktopcouch-service
+ 7023  7103  2362  2362 ?           -1 SN       0  97:15 /usr/bin/python /usr/lib/desktopcouch/desktopcouch-service
+    1  7497  7497  7497 ?           -1 Ss       1   0:00 portmap
+    1  7586  7586  7586 ?           -1 Ss       0   0:00 rpc.rstatd
+    1  9017  9017  9017 ?           -1 Ss     122   0:00 rpc.statd -L
+    2  9262     0     0 ?           -1 S        0   0:00 [rpciod/0]
+    2  9271     0     0 ?           -1 S        0   0:00 [lockd]
+    2  9522     0     0 ?           -1 S        0   0:00 [nfsd4]
+    2  9523     0     0 ?           -1 S        0   0:00 [nfsd]
+    2  9524     0     0 ?           -1 S        0   0:00 [nfsd]
+    2  9525     0     0 ?           -1 S        0   0:00 [nfsd]
+    2  9526     0     0 ?           -1 S        0   0:00 [nfsd]
+    2  9527     0     0 ?           -1 S        0   0:00 [nfsd]
+    2  9528     0     0 ?           -1 S        0   0:00 [nfsd]
+    2  9529     0     0 ?           -1 S        0   0:00 [nfsd]
+    2  9530     0     0 ?           -1 S        0   0:00 [nfsd]
+    1  9534  9534  9534 ?           -1 Ss       0   0:00 /usr/sbin/rpc.mountd --manage-gids
+    2  9576     0     0 ?           -1 S        0   0:00 [nfsiod]
+    1 11580 11580 11580 ?           -1 Ss       0   0:00 nginx: master process /usr/sbin/nginx
+11580 11581 11580 11580 ?           -1 S       33   0:00 nginx: worker process
+    1 15837 15837 15837 ?           -1 Ss       0   0:00 /usr/sbin/xinetd -pidfile /var/run/xinetd.pid -stayalive -inetd_compat -inetd_ipv6
+    1 17352 17352 17352 ?           -1 Ssl    116   8:15 /usr/sbin/mysqld
+    1 19561 19561 19561 ?           -1 S<s      0   0:02 /usr/sbin/bluetoothd --udev
+    1 19759  2362  2362 ?           -1 S        0   0:01 /usr/lib/gvfs/gvfsd-http --spawner :1.6 /org/gtk/gvfs/exec_spaw/2
+ 2606 19874 19874 19874 pts/1    19874 Ss+      0   0:03 bash
+    1 20954 20953 20953 ?           -1 S      119   9:48 /usr/sbin/snmpd -Lsd -Lf /dev/null -u snmp -g snmp -I -smux -p /var/run/snmpd.pid -c /etc/snmp/snmpd.conf
+    1 22886  2323  2323 ?           -1 S        0   0:17 gedit /home/suncco/c/apue/test_destination
+    1 24239 24239 23018 ?           -1 S        0  23:48 tcpdump -e
+  327 27082   327   327 ?           -1 S<       0   0:00 udevd --daemon
+  327 27083   327   327 ?           -1 S<       0   0:00 udevd --daemon
+ 2103 27097  2102  2102 ?           -1 S        0   0:00 /usr/lib/hal/hald-addon-rfkill-killswitch
+    1 27373 27373 27373 ?           -1 Ss       0   0:00 /usr/sbin/in.tftpd --listen --user tftp --address 0.0.0.0:69 --secure /var/lib/tftpboot
+    1 30503 30503 30503 ?           -1 Ss       0   0:00 /usr/sbin/vsftpd
+    1 32370   690   690 ?           -1 S        0   0:21 /usr/sbin/system-tools-backends
+    1 32372   690   690 ?           -1 S        0   0:09 /usr/bin/perl /usr/share/system-tools-backends-2.0/scripts/SystemToolsBackends.pl -m Platform

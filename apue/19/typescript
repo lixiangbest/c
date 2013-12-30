@@ -1,0 +1,20 @@
+Script started on  Sat Jun 29 12:23:40 CST 2013
+  PID  PPID  PGID   SID COMMAND         STAT COMMAND  TT
+13904 13903 13904 13904 bash            Ss   bash     pts/0
+13929 13904 13929 13904 script.sh       S+   script.s pts/0
+13930 13929 13929 13904 script.sh       S+   script.s pts/0
+13931 13929 13929 13904 tee             S+   tee      pts/0
+13933 13930 13929 13904 pty             S+   pty      pts/0
+13935 13933 13929 13904 sh              S+   sh       pts/0
+13936 13935 13929 13904 ps              R+   ps       pts/0
+  PID  PPID  PGID   SID COMMAND         STAT COMMAND  TT
+13934 13933 13934 13934 pty             Ss+  pty      pts/1
+13937 13934 13934 13934 sh              S+   sh       pts/1
+13938 13937 13934 13934 ps              R+   ps       pts/1
+]0;suncco@ubuntu: ~/c/apue/19[01;32msuncco@ubuntu[00m:[01;34m~/c/apue/19[00m$ exit
+exit
+ifdef LINUX = 1, interactive = 1
+optind = 1, optarg = (null)
+24 rows, 80 columns
+parent read EOF
+Script done on  Sat Jun 29 12:23:45 CST 2013
