@@ -8,6 +8,7 @@ int func(int n)
 		sum+=i;
 	}
 	return sum;
+	
 }
 
 
